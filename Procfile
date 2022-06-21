@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Banking_Churn_Model.py
